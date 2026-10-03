@@ -1,0 +1,864 @@
+{
+  "itinerary": {
+    "meta": {
+      "title": "Tokyo, together",
+      "subtitle": "Nov 23 – Dec 7, 2026",
+      "family": "Zach, wife, 3-year-old, and 4-month-old",
+      "homeBase": "Tokyo home base",
+      "fujiOvernight": {
+        "date": "2026-12-01",
+        "place": "Fujikawaguchiko Airbnb",
+        "status": "booked",
+        "notes": "One night booked. Leave larger bags at Tokyo home base if the booking covers the overnight."
+      },
+      "timezone": "Asia/Tokyo",
+      "days": 15
+    },
+    "days": [
+      {
+        "date": "2026-11-23",
+        "weekday": "Mon",
+        "title": "Arrival in Tokyo",
+        "pace": "Very light",
+        "summary": "Touch down. Settle in.",
+        "activities": [
+          "Arrive at Tokyo home base",
+          "Unpack and set up sleep spaces",
+          "Groceries, breakfast staples, and baby supplies",
+          "Easy dinner or takeout",
+          "Early night"
+        ],
+        "notes": "Keep this day free of sightseeing. Follow jet lag and the kids' cues.",
+        "adultEvening": null,
+        "tags": [
+          "arrival",
+          "home-base"
+        ]
+      },
+      {
+        "date": "2026-11-24",
+        "weekday": "Tue",
+        "title": "A gentle start",
+        "pace": "Very light",
+        "summary": "Neighborhood · Playground · Groceries",
+        "activities": [
+          "Breakfast at home",
+          "Nearby playground",
+          "Groceries and laundry",
+          "Naps on the kids' schedule",
+          "Quiet evening at home"
+        ],
+        "notes": "Follow the children's sleep rather than the clock. Let everyone settle into Tokyo time.",
+        "adultEvening": null,
+        "tags": [
+          "recovery",
+          "neighborhood"
+        ]
+      },
+      {
+        "date": "2026-11-25",
+        "weekday": "Wed",
+        "title": "Ueno & Akihabara",
+        "pace": "Moderate",
+        "summary": "Ueno in the morning · Akihabara after lunch",
+        "activities": [
+          "Ueno Zoo or another family attraction",
+          "Lunch in Ueno",
+          "Short shopping visit to Akihabara",
+          "Home around 4:30–5:00 pm"
+        ],
+        "notes": "Aim to be home before DisneySea. Keep Akihabara short so energy is left for tomorrow.",
+        "adultEvening": null,
+        "tags": [
+          "ueno",
+          "akihabara",
+          "pre-disney"
+        ]
+      },
+      {
+        "date": "2026-11-26",
+        "weekday": "Thu",
+        "title": "Tokyo DisneySea",
+        "pace": "Heavy",
+        "summary": "A full park day, at the family's pace",
+        "activities": [
+          "Tokyo DisneySea — trip highlight",
+          "Meals and snack breaks built in",
+          "Stroller and rest windows for toddler and infant",
+          "Early exit OK if everyone has had enough"
+        ],
+        "notes": "Confirm tickets and park hours. Snacks, naps, and an easy route home matter most.",
+        "adultEvening": null,
+        "tags": [
+          "disney",
+          "highlight"
+        ],
+        "highlight": true
+      },
+      {
+        "date": "2026-11-27",
+        "weekday": "Fri",
+        "title": "The day after Disney",
+        "pace": "Very light",
+        "summary": "Sleep in · Laundry · Takeout",
+        "activities": [
+          "Unscheduled recovery day",
+          "Laundry and restock",
+          "Nearby playground or easy mall only if energy allows",
+          "Takeout dinner"
+        ],
+        "notes": "Protect this recovery day. Do not add ticketed attractions.",
+        "adultEvening": null,
+        "tags": [
+          "recovery"
+        ]
+      },
+      {
+        "date": "2026-11-28",
+        "weekday": "Sat",
+        "title": "Tsukiji & HASHIDA evening",
+        "pace": "Light",
+        "summary": "Market morning · Home for naps · Adults' dinner",
+        "activities": [
+          "Tsukiji Outer Market ~9:00–11:00 am (snacks or brunch)",
+          "Home for long naps",
+          "Nanny handoff before dinner",
+          "HASHIDA TOKYO ~7:00 pm (adults)"
+        ],
+        "notes": "Confirm HASHIDA reservation and childcare. Keep baby supplies with the children at home base.",
+        "adultEvening": {
+          "place": "HASHIDA TOKYO",
+          "time": "~7:00 pm",
+          "needs": [
+            "reservation",
+            "nanny"
+          ]
+        },
+        "tags": [
+          "tsukiji",
+          "adult-evening"
+        ]
+      },
+      {
+        "date": "2026-11-29",
+        "weekday": "Sun",
+        "title": "A day by Tokyo Bay",
+        "pace": "Light",
+        "summary": "Tokyo Sea Life Park · Kasai Rinkai Park",
+        "activities": [
+          "Tokyo Sea Life Park",
+          "Outdoor play at Kasai Rinkai Park (weather permitting)",
+          "Return early"
+        ],
+        "notes": "No adult evening. Keep the pace easy after yesterday's late dinner.",
+        "adultEvening": null,
+        "tags": [
+          "aquarium",
+          "park"
+        ]
+      },
+      {
+        "date": "2026-11-30",
+        "weekday": "Mon",
+        "title": "Asakusa, Skytree & Ginza Iwa",
+        "pace": "Moderate",
+        "summary": "Senso-ji · Solamachi · Sumida Aquarium",
+        "activities": [
+          "Asakusa / Senso-ji (keep Nakamise short)",
+          "Tokyo Skytree area — Solamachi + Sumida Aquarium",
+          "Return to Tokyo home base for nanny handoff",
+          "Ginza Iwa dinner (adults)"
+        ],
+        "notes": "Confirm Ginza Iwa reservation and nanny coverage. Agree on return transport before leaving.",
+        "adultEvening": {
+          "place": "Ginza Iwa",
+          "time": "evening",
+          "needs": [
+            "reservation",
+            "nanny"
+          ]
+        },
+        "tags": [
+          "asakusa",
+          "skytree",
+          "adult-evening"
+        ]
+      },
+      {
+        "date": "2026-12-01",
+        "weekday": "Tue",
+        "title": "A night beneath Mount Fuji",
+        "pace": "Moderate",
+        "summary": "Tokyo · Kawaguchiko · Fujikawaguchiko Airbnb",
+        "activities": [
+          "Leave Tokyo in the morning",
+          "Lunch by the lake",
+          "One or two scenic stops (weather / visibility dependent)",
+          "Check into booked Fujikawaguchiko Airbnb",
+          "Easy dinner and unhurried overnight"
+        ],
+        "notes": "Airbnb booked for one night Dec 1. Pack light: warm layers, diapers, feeding supplies, meds, chargers, compact stroller/carrier. Leave larger bags at Tokyo home base if possible.",
+        "adultEvening": null,
+        "tags": [
+          "fuji",
+          "overnight",
+          "booked"
+        ],
+        "highlight": true
+      },
+      {
+        "date": "2026-12-02",
+        "weekday": "Wed",
+        "title": "One more Fuji morning",
+        "pace": "Light",
+        "summary": "Breakfast with a view · Return · Recovery",
+        "activities": [
+          "Relaxed morning and checkout",
+          "Return to Tokyo mid-afternoon",
+          "Unpack and laundry",
+          "Home dinner"
+        ],
+        "notes": "No evening plans. Save energy for Disneyland tomorrow.",
+        "adultEvening": null,
+        "tags": [
+          "fuji",
+          "return",
+          "recovery"
+        ]
+      },
+      {
+        "date": "2026-12-03",
+        "weekday": "Thu",
+        "title": "Tokyo Disneyland",
+        "pace": "Heavy",
+        "summary": "The second Disney day",
+        "activities": [
+          "Tokyo Disneyland full park day",
+          "Regular food and rest breaks",
+          "Stroller-friendly pacing",
+          "Early exit OK"
+        ],
+        "notes": "Confirm date-specific tickets and park hours. Protect rest windows like DisneySea.",
+        "adultEvening": null,
+        "tags": [
+          "disney",
+          "highlight"
+        ],
+        "highlight": true
+      },
+      {
+        "date": "2026-12-04",
+        "weekday": "Fri",
+        "title": "Neighborhoods, then a night out",
+        "pace": "Moderate",
+        "summary": "Shinjuku · Harajuku · Shibuya · adult evening",
+        "activities": [
+          "Gentle start: Shinjuku Gyoen and lunch",
+          "Harajuku / Meiji area",
+          "Short Shibuya stop",
+          "Nanny handoff — kids + stroller back to Tokyo home base",
+          "~5:00 pm Bell Sushi at The Bellwood",
+          "~7:30 pm Sip / The SG Club"
+        ],
+        "notes": "Keep daytime shopping short after Disneyland. Reconfirm reservations and nanny handoff timing.",
+        "adultEvening": {
+          "place": "Bell Sushi (The Bellwood) then Sip / The SG Club",
+          "time": "~5:00 pm / ~7:30 pm",
+          "needs": [
+            "reservation",
+            "nanny"
+          ]
+        },
+        "tags": [
+          "shinjuku",
+          "harajuku",
+          "shibuya",
+          "adult-evening"
+        ]
+      },
+      {
+        "date": "2026-12-05",
+        "weekday": "Sat",
+        "title": "teamLab & the waterfront",
+        "pace": "Moderate",
+        "summary": "teamLab Planets · Toyosu lunch · Odaiba LEGOLAND",
+        "activities": [
+          "teamLab Planets (morning, timed entry)",
+          "Lunch in Toyosu",
+          "LEGOLAND Discovery Center Tokyo (Odaiba)",
+          "Other Odaiba stops optional"
+        ],
+        "notes": "Confirm timed entry for teamLab and LEGOLAND tickets. Keep extra Odaiba stops optional.",
+        "adultEvening": null,
+        "tags": [
+          "teamlab",
+          "odaiba",
+          "legoland"
+        ]
+      },
+      {
+        "date": "2026-12-06",
+        "weekday": "Sun",
+        "title": "A little room for discovery",
+        "pace": "Light",
+        "summary": "Flexible day · Final shopping · Packing",
+        "activities": [
+          "Option A: Ginza / Marunouchi if energy allows",
+          "Option B: stay local at Tokyo home base",
+          "Option C: revisit something missed",
+          "Pack for departure"
+        ],
+        "notes": "Keep free of another major ticketed attraction. Leave plenty of time to pack.",
+        "adultEvening": null,
+        "tags": [
+          "flexible",
+          "packing"
+        ]
+      },
+      {
+        "date": "2026-12-07",
+        "weekday": "Mon",
+        "title": "Homeward bound",
+        "pace": "Very light",
+        "summary": "Breakfast · Final packing · Airport transfer",
+        "activities": [
+          "Checkout from Tokyo home base",
+          "Airport transfer with generous buffer",
+          "Flight home"
+        ],
+        "notes": "Departure day. No sightseeing. Plan transfer around confirmed flight and airport.",
+        "adultEvening": null,
+        "tags": [
+          "departure"
+        ]
+      }
+    ]
+  },
+  "audit": {
+    "updatedAt": "2026-10-02T13:29:16.382Z",
+    "summary": {
+      "open": 11,
+      "booked": 1,
+      "confirmed": 0,
+      "done": 0
+    },
+    "items": [
+      {
+        "id": "disneysea-tickets",
+        "title": "DisneySea tickets (Nov 26)",
+        "category": "tickets",
+        "status": "open",
+        "dueHint": "ASAP — date-specific; buy when on-sale window opens",
+        "relatedDay": "2026-11-26",
+        "notes": "Confirm park hours and any timed-entry requirements the same day."
+      },
+      {
+        "id": "disneyland-tickets",
+        "title": "Disneyland tickets (Dec 3)",
+        "category": "tickets",
+        "status": "open",
+        "dueHint": "ASAP — date-specific; buy when on-sale window opens",
+        "relatedDay": "2026-12-03",
+        "notes": "Second Disney day after Fuji return."
+      },
+      {
+        "id": "disney-hours-entry",
+        "title": "Disney park hours / timed entry (both days)",
+        "category": "tickets",
+        "status": "open",
+        "dueHint": "Recheck 1–2 weeks before each park day",
+        "relatedDay": "2026-11-26",
+        "notes": "Applies to Nov 26 DisneySea and Dec 3 Disneyland. Attraction opening days can change."
+      },
+      {
+        "id": "fuji-transport",
+        "title": "Fuji transport + station-to-Airbnb transfer (Dec 1–2)",
+        "category": "transport",
+        "status": "open",
+        "dueHint": "2–4 weeks out; lock once preferred train/bus times are chosen",
+        "relatedDay": "2026-12-01",
+        "notes": "Lodging Airbnb is booked. Still need Tokyo→Kawaguchiko transport and last-mile transfer to the Airbnb."
+      },
+      {
+        "id": "fuji-airbnb",
+        "title": "Fujikawaguchiko Airbnb (one night Dec 1)",
+        "category": "lodging",
+        "status": "booked",
+        "dueHint": "Done — confirm check-in instructions closer to travel",
+        "relatedDay": "2026-12-01",
+        "notes": "Confirmed booked. Leave larger bags at Tokyo home base if booking covers overnight."
+      },
+      {
+        "id": "hashida-nanny",
+        "title": "HASHIDA reservation + nanny (Nov 28)",
+        "category": "restaurants",
+        "status": "open",
+        "dueHint": "2–4 weeks out for reservation; lock nanny once dinner time is firm",
+        "relatedDay": "2026-11-28",
+        "notes": "Target ~7:00 pm. Agree handoff and baby supplies stay with kids at home base."
+      },
+      {
+        "id": "ginza-iwa-nanny",
+        "title": "Ginza Iwa reservation + nanny (Nov 30)",
+        "category": "restaurants",
+        "status": "open",
+        "dueHint": "2–4 weeks out for reservation; lock nanny once dinner time is firm",
+        "relatedDay": "2026-11-30",
+        "notes": "Return to Tokyo home base for handoff before adults leave for Ginza."
+      },
+      {
+        "id": "bell-sip-nanny",
+        "title": "Bell Sushi + Sip/SG Club reservations + nanny (Dec 4)",
+        "category": "restaurants",
+        "status": "open",
+        "dueHint": "2–4 weeks out; reconfirm working times ~5:00 pm / ~7:30 pm",
+        "relatedDay": "2026-12-04",
+        "notes": "Bell Sushi at The Bellwood then Sip / The SG Club. Kids + stroller return to Tokyo home base before evening."
+      },
+      {
+        "id": "teamlab-entry",
+        "title": "teamLab Planets timed entry (Dec 5)",
+        "category": "tickets",
+        "status": "open",
+        "dueHint": "Book morning slot when tickets open; morning preferred",
+        "relatedDay": "2026-12-05",
+        "notes": "Confirm current visitor guidance (barefoot areas, stroller storage)."
+      },
+      {
+        "id": "legoland-tokyo",
+        "title": "LEGOLAND Discovery Center Tokyo (Dec 5)",
+        "category": "tickets",
+        "status": "open",
+        "dueHint": "1–3 weeks out; afternoon after Toyosu lunch",
+        "relatedDay": "2026-12-05",
+        "notes": "Odaiba. Other Odaiba stops stay optional."
+      },
+      {
+        "id": "departure-flight-transfer",
+        "title": "Dec 7 flight + airport transfer details",
+        "category": "flights",
+        "status": "open",
+        "dueHint": "Once flights confirmed — then book transfer with buffer",
+        "relatedDay": "2026-12-07",
+        "notes": "Checkout, airport buffer, no sightseeing. Save flight number, terminal, and transfer method."
+      },
+      {
+        "id": "arrival-supplies",
+        "title": "Infant/toddler supplies plan on arrival",
+        "category": "supplies",
+        "status": "open",
+        "dueHint": "Before travel — list what to bring vs buy near Tokyo home base on Nov 23",
+        "relatedDay": "2026-11-23",
+        "notes": "Diapers, formula/feeding, wipes, meds, snacks. Map a grocery/drugstore near home base."
+      }
+    ]
+  },
+  "checklist": {
+    "updatedAt": "2026-10-02T13:29:16.382Z",
+    "items": [
+      {
+        "id": "chk-disneysea",
+        "title": "Buy Tokyo DisneySea tickets for Nov 26",
+        "priority": "high",
+        "deadlineHint": "ASAP when date-specific tickets go on sale",
+        "status": "open",
+        "relatedDay": "2026-11-26",
+        "auditId": "disneysea-tickets"
+      },
+      {
+        "id": "chk-disneyland",
+        "title": "Buy Tokyo Disneyland tickets for Dec 3",
+        "priority": "high",
+        "deadlineHint": "ASAP when date-specific tickets go on sale",
+        "status": "open",
+        "relatedDay": "2026-12-03",
+        "auditId": "disneyland-tickets"
+      },
+      {
+        "id": "chk-disney-hours",
+        "title": "Recheck Disney park hours & timed entry (both days)",
+        "priority": "medium",
+        "deadlineHint": "1–2 weeks before Nov 26 and Dec 3",
+        "status": "open",
+        "relatedDay": "2026-11-26",
+        "auditId": "disney-hours-entry"
+      },
+      {
+        "id": "chk-fuji-transport",
+        "title": "Book Fuji transport + station-to-Airbnb transfer",
+        "priority": "high",
+        "deadlineHint": "2–4 weeks before Dec 1",
+        "status": "open",
+        "relatedDay": "2026-12-01",
+        "auditId": "fuji-transport"
+      },
+      {
+        "id": "chk-fuji-airbnb",
+        "title": "Confirm Fujikawaguchiko Airbnb check-in details",
+        "priority": "medium",
+        "deadlineHint": "1 week before Dec 1 (lodging already booked)",
+        "status": "booked",
+        "relatedDay": "2026-12-01",
+        "auditId": "fuji-airbnb"
+      },
+      {
+        "id": "chk-hashida",
+        "title": "Reserve HASHIDA TOKYO + arrange nanny (Nov 28)",
+        "priority": "high",
+        "deadlineHint": "2–4 weeks out; target ~7:00 pm",
+        "status": "open",
+        "relatedDay": "2026-11-28",
+        "auditId": "hashida-nanny"
+      },
+      {
+        "id": "chk-ginza-iwa",
+        "title": "Reserve Ginza Iwa + arrange nanny (Nov 30)",
+        "priority": "high",
+        "deadlineHint": "2–4 weeks out",
+        "status": "open",
+        "relatedDay": "2026-11-30",
+        "auditId": "ginza-iwa-nanny"
+      },
+      {
+        "id": "chk-bell-sip",
+        "title": "Reserve Bell Sushi + Sip/SG Club + nanny (Dec 4)",
+        "priority": "high",
+        "deadlineHint": "2–4 weeks out; reconfirm ~5:00 pm / ~7:30 pm",
+        "status": "open",
+        "relatedDay": "2026-12-04",
+        "auditId": "bell-sip-nanny"
+      },
+      {
+        "id": "chk-teamlab",
+        "title": "Book teamLab Planets morning timed entry (Dec 5)",
+        "priority": "high",
+        "deadlineHint": "When tickets open; prefer morning slot",
+        "status": "open",
+        "relatedDay": "2026-12-05",
+        "auditId": "teamlab-entry"
+      },
+      {
+        "id": "chk-legoland",
+        "title": "Buy LEGOLAND Discovery Center Tokyo tickets (Dec 5)",
+        "priority": "medium",
+        "deadlineHint": "1–3 weeks before Dec 5",
+        "status": "open",
+        "relatedDay": "2026-12-05",
+        "auditId": "legoland-tokyo"
+      },
+      {
+        "id": "chk-departure",
+        "title": "Save Dec 7 flight + book airport transfer",
+        "priority": "high",
+        "deadlineHint": "Once flights confirmed — then transfer with buffer",
+        "status": "open",
+        "relatedDay": "2026-12-07",
+        "auditId": "departure-flight-transfer"
+      },
+      {
+        "id": "chk-supplies",
+        "title": "Finalize infant/toddler supplies plan (bring vs buy on arrival)",
+        "priority": "medium",
+        "deadlineHint": "Before travel; shop near Tokyo home base on Nov 23",
+        "status": "open",
+        "relatedDay": "2026-11-23",
+        "auditId": "arrival-supplies"
+      }
+    ]
+  },
+  "briefings": {
+    "updatedAt": "2026-10-02T13:29:16.391Z",
+    "days": [
+      {
+        "date": "2026-11-23",
+        "headline": "Land soft — home base first",
+        "morning": "Travel day. No sightseeing. Head straight to Tokyo home base once you clear arrival.",
+        "afternoon": "Unpack sleep spaces for toddler and infant. Map the nearest grocery and drugstore. Pick up breakfast staples, snacks, diapers/wipes, and any feeding supplies you did not pack.",
+        "evening": "Easy takeout or convenience-store dinner. Lights out early. Protect the first night of sleep.",
+        "packing": [
+          "Passports & arrival docs",
+          "Carry-on baby kit (diapers, wipes, spare clothes, feeding)",
+          "Phone chargers & adapters",
+          "Lightweight layers for evening"
+        ],
+        "handoffs": [],
+        "openQuestions": [
+          "Exact flight arrival time and airport (NRT vs HND)?",
+          "Prefer grocery run tonight or first thing Nov 24?",
+          "Any pre-ordered Airbnb baby gear?"
+        ]
+      },
+      {
+        "date": "2026-11-24",
+        "headline": "Neighborhood rhythm, not a checklist",
+        "morning": "Breakfast at home. Short walk to a nearby playground when the toddler is ready. Stay within an easy nap-return radius.",
+        "afternoon": "Groceries and laundry. Long naps. Optional quiet café or park if energy is good — skip if anyone is still foggy.",
+        "evening": "Home dinner. Early bedtime. Confirm DisneySea ticket status and tomorrow’s Ueno plan before sleep.",
+        "packing": [
+          "Comfortable walking shoes",
+          "Stroller or carrier",
+          "Snacks & water",
+          "Laundry bag / detergent pods if needed"
+        ],
+        "handoffs": [],
+        "openQuestions": [
+          "Best playground within ~10 min of the Airbnb?",
+          "Laundry in-unit or nearby coin laundry?"
+        ]
+      },
+      {
+        "date": "2026-11-25",
+        "headline": "Ueno morning, Akihabara short, home by late afternoon",
+        "morning": "Ueno Zoo or another family-friendly Ueno stop. Arrive when gates open if possible to beat crowds and protect nap timing.",
+        "afternoon": "Lunch in Ueno. Short Akihabara visit only — one or two shops, not a deep dive. Aim home 4:30–5:00 pm.",
+        "evening": "Prep DisneySea: tickets loaded, park bag packed, early bedtime. No late plans.",
+        "packing": [
+          "Park bag dry-run for tomorrow",
+          "Stroller rain cover if forecast warrants",
+          "Snacks that travel well",
+          "IC cards charged"
+        ],
+        "handoffs": [],
+        "openQuestions": [
+          "Ueno Zoo vs alternative Ueno attraction?",
+          "Any must-buy Akihabara items, or skip if kids are done?"
+        ]
+      },
+      {
+        "date": "2026-11-26",
+        "headline": "DisneySea — highlight day, family pace wins",
+        "morning": "Arrive with buffer for security and stroller. Hit a first attraction while energy is high. Schedule an early snack.",
+        "afternoon": "Midday meal and a real rest window (stroller nap / quiet corner). Drop lower-priority attractions without guilt.",
+        "evening": "Early exit is a success. Direct route home. Simple dinner. Protect Nov 27 as recovery.",
+        "packing": [
+          "Tickets & app login",
+          "Battery pack",
+          "Change of clothes for toddler",
+          "Diapers/wipes/feeding for full day",
+          "Light layers + rain plan"
+        ],
+        "handoffs": [],
+        "openQuestions": [
+          "Tickets purchased?",
+          "Current park hours & any timed entry?",
+          "Preferred ride / show priorities for the 3yo?"
+        ]
+      },
+      {
+        "date": "2026-11-27",
+        "headline": "Recovery day — leave it empty on purpose",
+        "morning": "Sleep in. No alarms unless kids dictate otherwise. Breakfast at home.",
+        "afternoon": "Laundry and restock. Nearby playground or easy mall only if everyone feels good. Otherwise stay put.",
+        "evening": "Takeout. Light planning for Tsukiji tomorrow (leave time ~9–11 am). Confirm HASHIDA + nanny status.",
+        "packing": [
+          "Laundry supplies",
+          "Comfort clothes",
+          "Optional: short outing bag"
+        ],
+        "handoffs": [],
+        "openQuestions": [
+          "HASHIDA reservation confirmed?",
+          "Nanny availability for Nov 28 evening?"
+        ]
+      },
+      {
+        "date": "2026-11-28",
+        "headline": "Tsukiji morning, long naps, HASHIDA for adults",
+        "morning": "Tsukiji Outer Market ~9:00–11:00 am. Snacks or brunch. Keep walking loops short with the stroller.",
+        "afternoon": "Straight home for long naps. Prep baby supplies and bedtime routine for the nanny handoff.",
+        "evening": "Nanny handoff at Tokyo home base. Adults to HASHIDA TOKYO ~7:00 pm. Agree return time and emergency contacts before leaving.",
+        "packing": [
+          "Morning: cash/IC for market snacks",
+          "Evening: reservation confirmation",
+          "Baby kit stays with kids at home"
+        ],
+        "handoffs": [
+          "Nanny at home base before HASHIDA",
+          "Kids + stroller stay at Tokyo home base",
+          "Share bedtime notes and emergency numbers"
+        ],
+        "openQuestions": [
+          "HASHIDA time locked?",
+          "Nanny booked and briefed?",
+          "Preferred market meeting spot if splitting briefly?"
+        ]
+      },
+      {
+        "date": "2026-11-29",
+        "headline": "Bay day — aquarium + park, home early",
+        "morning": "Tokyo Sea Life Park at an easy pace. Build in a snack stop.",
+        "afternoon": "Kasai Rinkai Park outdoor play if weather cooperates. Return early — no adult evening tonight.",
+        "evening": "Home dinner. Light prep for Asakusa/Skytree tomorrow and Ginza Iwa handoff.",
+        "packing": [
+          "Weather-appropriate layers",
+          "Park picnic or snack kit",
+          "Stroller",
+          "IC cards"
+        ],
+        "handoffs": [],
+        "openQuestions": [
+          "Weather look for outdoor park time?",
+          "Ginza Iwa reservation status for tomorrow?"
+        ]
+      },
+      {
+        "date": "2026-11-30",
+        "headline": "Asakusa & Skytree by day, Ginza Iwa by night",
+        "morning": "Senso-ji early; keep Nakamise shopping short. Move toward Skytree/Solamachi before crowds peak.",
+        "afternoon": "Sumida Aquarium and Solamachi food. Head back to Tokyo home base with enough buffer for nanny handoff.",
+        "evening": "Nanny handoff. Adults to Ginza Iwa. Confirm return transport before leaving.",
+        "packing": [
+          "Day bag for Asakusa/Skytree",
+          "Reservation for Ginza Iwa",
+          "Baby supplies stay with kids"
+        ],
+        "handoffs": [
+          "Return to Tokyo home base before dinner",
+          "Nanny coverage for Ginza Iwa evening",
+          "Agree pickup/return plan"
+        ],
+        "openQuestions": [
+          "Ginza Iwa time confirmed?",
+          "Nanny locked?",
+          "Skip Skytree observation deck to protect energy?"
+        ]
+      },
+      {
+        "date": "2026-12-01",
+        "headline": "Kawaguchiko overnight — scenic, not rushed",
+        "morning": "Depart Tokyo with overnight bag only. Larger bags stay at Tokyo home base if the booking allows. Aim for mid-morning arrival buffer.",
+        "afternoon": "Lunch by the lake. One or two scenic stops only if visibility and kids allow. Check into Fujikawaguchiko Airbnb.",
+        "evening": "Easy dinner near lodging. Unhurried overnight. No late driving.",
+        "packing": [
+          "One-night clothes + warm layers",
+          "Diapers, feeding, meds",
+          "Chargers",
+          "Compact stroller or carrier",
+          "Check-in instructions & transfer plan"
+        ],
+        "handoffs": [],
+        "openQuestions": [
+          "Tokyo→Kawaguchiko transport booked?",
+          "Station-to-Airbnb transfer arranged?",
+          "Check-in time / lockbox details?"
+        ]
+      },
+      {
+        "date": "2026-12-02",
+        "headline": "Fuji morning, Tokyo afternoon, rest for Disneyland",
+        "morning": "Breakfast with a view if weather cooperates. Relaxed checkout — do not squeeze extra stops.",
+        "afternoon": "Return to Tokyo mid-afternoon. Unpack, laundry, restock. Home dinner.",
+        "evening": "No plans. Early bedtime. Confirm Disneyland tickets and park hours for tomorrow.",
+        "packing": [
+          "Same overnight bag for return",
+          "Laundry plan at home base",
+          "Disneyland bag prep overnight"
+        ],
+        "handoffs": [],
+        "openQuestions": [
+          "Return train/bus time locked?",
+          "Disneyland tickets ready?"
+        ]
+      },
+      {
+        "date": "2026-12-03",
+        "headline": "Disneyland — second Disney day, same rest rules",
+        "morning": "Arrive with buffer. Prioritize a short list for the 3yo. Early snack and stroller nap window on the calendar.",
+        "afternoon": "Meal break mid-park. Drop optional attractions. Early exit if energy dips.",
+        "evening": "Direct home. Simple dinner. Keep Dec 4 daytime gentle ahead of the adult evening.",
+        "packing": [
+          "Tickets & app",
+          "Battery pack",
+          "Full-day baby kit",
+          "Change of clothes",
+          "Layers + rain plan"
+        ],
+        "handoffs": [],
+        "openQuestions": [
+          "Tickets purchased?",
+          "Park hours / timed entry checked?",
+          "Priority attractions for Dec 3?"
+        ]
+      },
+      {
+        "date": "2026-12-04",
+        "headline": "Gentle neighborhoods by day, Bellwood then Sip by night",
+        "morning": "Shinjuku Gyoen and a calm lunch. Short walking loops after yesterday’s park day.",
+        "afternoon": "Harajuku/Meiji briefly, then Shibuya only if energy holds. Nanny handoff — kids and stroller back to Tokyo home base before 5 pm.",
+        "evening": "~5:00 pm Bell Sushi at The Bellwood → ~7:30 pm Sip / The SG Club. Reconfirm both reservations and return plan.",
+        "packing": [
+          "Daytime light bag",
+          "Evening reservation confirmations",
+          "Baby kit stays at home with nanny"
+        ],
+        "handoffs": [
+          "Kids + stroller return to Tokyo home base before adult evening",
+          "Nanny briefed on bedtime",
+          "Share ETA home after Sip/SG Club"
+        ],
+        "openQuestions": [
+          "Bell Sushi + Sip/SG Club reserved?",
+          "Nanny booked for Dec 4?",
+          "Working times still ~5:00 / ~7:30?"
+        ]
+      },
+      {
+        "date": "2026-12-05",
+        "headline": "teamLab morning, Toyosu lunch, LEGOLAND afternoon",
+        "morning": "teamLab Planets timed entry. Arrive early for storage/shoe logistics. Keep the visit focused.",
+        "afternoon": "Lunch in Toyosu. Continue to Odaiba for LEGOLAND Discovery Center. Other Odaiba stops optional — skip freely.",
+        "evening": "Home dinner. Light packing start for Dec 7. No late plans.",
+        "packing": [
+          "teamLab timed tickets",
+          "Socks (barefoot areas)",
+          "LEGOLAND tickets",
+          "Stroller plan for Odaiba transfers"
+        ],
+        "handoffs": [],
+        "openQuestions": [
+          "teamLab morning slot booked?",
+          "LEGOLAND tickets bought?",
+          "Any must-do optional Odaiba stop?"
+        ]
+      },
+      {
+        "date": "2026-12-06",
+        "headline": "Flexible day — energy decides, packing is non-negotiable",
+        "morning": "Choose based on how everyone feels: Ginza/Marunouchi, stay local at Tokyo home base, or revisit one missed spot. No major ticketed attraction.",
+        "afternoon": "Final shopping only if light. Begin structured packing — kids’ bag, carry-on baby kit, documents.",
+        "evening": "Home dinner. Lay out tomorrow’s clothes and airport-day bag. Confirm flight and transfer details.",
+        "packing": [
+          "Packing checklist",
+          "Souveniers that fit bags",
+          "Documents folder",
+          "Airport-day baby kit staged"
+        ],
+        "handoffs": [],
+        "openQuestions": [
+          "Flight number, airport, and terminal confirmed?",
+          "Airport transfer booked?",
+          "Checkout time at Tokyo home base?"
+        ]
+      },
+      {
+        "date": "2026-12-07",
+        "headline": "Checkout, buffer, fly — no sightseeing",
+        "morning": "Breakfast, final sweep of Airbnb, checkout. Leave with generous airport buffer.",
+        "afternoon": "Airport transfer and check-in. Feed and change before security. No side trips.",
+        "evening": "In transit / arrival depending on flight. Trip management site can archive notes after landing.",
+        "packing": [
+          "Passports & tickets",
+          "Carry-on baby kit",
+          "Chargers",
+          "Layers for plane",
+          "Medications in accessible pocket"
+        ],
+        "handoffs": [],
+        "openQuestions": [
+          "Transfer pickup time confirmed?",
+          "Any last Airbnb checkout instructions?"
+        ]
+      }
+    ]
+  }
+}
