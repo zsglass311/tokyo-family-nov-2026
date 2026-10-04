@@ -87,7 +87,7 @@
           "Stroller and rest windows for toddler and infant",
           "Early exit OK if everyone has had enough"
         ],
-        "notes": "Tickets booked on KKday #26KK251914568. Three adult 1-Day Passports for 2 adults + nanny. Toddler (3y2m) and infant are free / no tickets. Confirm park hours. Snacks, naps, and an easy route home matter most.",
+        "notes": "Tickets booked on KKday. Three adult 1-Day Passports for 2 adults + nanny. Toddler (3y2m) and infant are free / no tickets. Confirm park hours. Snacks, naps, and an easy route home matter most.",
         "adultEvening": null,
         "tags": [
           "disney",
@@ -351,7 +351,7 @@
         "status": "booked",
         "dueHint": "Done — booked on KKday; recheck park hours closer to the day",
         "relatedDay": "2026-11-26",
-        "notes": "Booked. KKday #26KK251914568. Party: 3 adult 1-Day Passports (2 adults + nanny). Toddler (3y2m) and infant are free / no tickets. Still confirm park hours and any timed-entry requirements."
+        "notes": "Booked on KKday. Party: 3 adult 1-Day Passports (2 adults + nanny). Toddler (3y2m) and infant are free / no tickets. Still confirm park hours and any timed-entry requirements."
       },
       {
         "id": "disneyland-tickets",
@@ -461,7 +461,7 @@
         "id": "chk-disneysea",
         "title": "Buy Tokyo DisneySea tickets for Nov 26",
         "priority": "high",
-        "deadlineHint": "Booked — KKday #26KK251914568",
+        "deadlineHint": "Booked — KKday",
         "status": "booked",
         "relatedDay": "2026-11-26",
         "auditId": "disneysea-tickets"
@@ -612,7 +612,7 @@
         "headline": "Ueno morning, Akihabara short, home by late afternoon",
         "morning": "Ueno Zoo or another family-friendly Ueno stop. Arrive when gates open if possible to beat crowds and protect nap timing.",
         "afternoon": "Lunch in Ueno. Short Akihabara visit only — one or two shops, not a deep dive. Aim home 4:30–5:00 pm.",
-        "evening": "Prep DisneySea: KKday voucher loaded (#26KK251914568), park bag packed, early bedtime. No late plans.",
+        "evening": "Prep DisneySea: KKday voucher loaded, park bag packed, early bedtime. No late plans.",
         "packing": [
           "Park bag dry-run for tomorrow",
           "Stroller rain cover if forecast warrants",
@@ -628,7 +628,7 @@
       {
         "date": "2026-11-26",
         "headline": "DisneySea — highlight day, family pace wins",
-        "morning": "Tickets are booked: KKday #26KK251914568. Three adult 1-Day Passports (2 adults + nanny). Toddler (3y2m) and infant are free / no tickets. Arrive with buffer for security and stroller. Hit a first attraction while energy is high. Schedule an early snack.",
+        "morning": "Tickets are booked on KKday. Three adult 1-Day Passports (2 adults + nanny). Toddler (3y2m) and infant are free / no tickets. Arrive with buffer for security and stroller. Hit a first attraction while energy is high. Schedule an early snack.",
         "afternoon": "Midday meal and a real rest window (stroller nap / quiet corner). Drop lower-priority attractions without guilt.",
         "evening": "Early exit is a success. Direct route home. Simple dinner. Protect Nov 27 as recovery.",
         "packing": [
