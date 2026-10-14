@@ -219,7 +219,7 @@
           "Unpack and laundry",
           "Home dinner"
         ],
-        "notes": "No evening plans. Rest up; Dec 3 is a family open day (nanny off at Disneyland).",
+        "notes": "No evening plans. Rest up; Dec 3 is Sumida Aquarium for the family (nanny off at Disneyland).",
         "adultEvening": null,
         "tags": [
           "fuji",
@@ -230,19 +230,22 @@
       {
         "date": "2026-12-03",
         "weekday": "Thu",
-        "title": "Family open day · Nanny at Disneyland",
+        "title": "Sumida Aquarium (family) · Nanny at Disneyland",
         "pace": "Light",
-        "summary": "Nanny's solo Disneyland day; family plan TBD",
+        "summary": "Sumida Aquarium morning · Solamachi lunch · Home for nap",
         "activities": [
           "Nanny at Tokyo Disneyland solo (ticket booked)",
-          "Family (Zach, wife, both kids): open day, plan TBD",
-          "Parents handle both kids — keep it gentle, near home base"
+          "Leave ~9:15 with stroller (train ~20 min or taxi 10–15 min)",
+          "Sumida Aquarium 10:00–11:45 at opening",
+          "Feed baby in Solamachi nursing rooms",
+          "Lunch ~12:00 Solamachi food court / kids floor",
+          "Home ~13:00 for toddler nap"
         ],
-        "notes": "Nanny has a solo Disneyland day (ticket booked). Family is not going to Disneyland. No nanny today — plan a gentle family activity.",
+        "notes": "Family: leave ~9:15 with stroller (JR Sobu line from the home base station to Kinshicho, then Hanzomon line to Oshiage (~20 min); or taxi 10–15 min). Sumida Aquarium, Tokyo Skytree Town Solamachi 5F/6F (weekdays 10:00–20:00, last entry 19:00; https://www.sumida-aquarium.com/) 10:00–11:45 at opening. Feed baby in Solamachi nursing rooms. Lunch ~12:00 at Solamachi food court / kids floor. Home ~13:00 for toddler nap. Skip the Skytree deck. Cost ~¥6,300: adults ¥2,700 each, 3yo ¥900, baby free. No reservation required; optional date-specified web tickets go on sale 30 days ahead (~Nov 3) to skip the line.",
         "adultEvening": null,
         "tags": [
-          "open-day",
-          "nanny-off"
+          "nanny-off",
+          "aquarium"
         ],
         "highlight": false
       },
@@ -335,12 +338,12 @@
     ]
   },
   "audit": {
-    "updatedAt": "2026-10-14T12:35:00.000Z",
+    "updatedAt": "2026-10-14T12:55:00.000Z",
     "summary": {
-      "open": 10,
+      "open": 9,
       "booked": 3,
       "confirmed": 0,
-      "done": 0
+      "done": 1
     },
     "items": [
       {
@@ -455,15 +458,15 @@
         "id": "dec3-family-plan",
         "title": "Plan family activity for Dec 3",
         "category": "activities",
-        "status": "open",
-        "dueHint": "Before trip — gentle plan, parents solo with both kids",
+        "status": "done",
+        "dueHint": "Decided — Sumida Aquarium (family morning)",
         "relatedDay": "2026-12-03",
-        "notes": "No nanny on Dec 3 (nanny at Disneyland solo). Zach + wife handle the 3-year-old and 4-month-old; plan TBD."
+        "notes": "Planned: Sumida Aquarium. Nanny at Disneyland solo; parents handle both kids. Family: leave ~9:15 with stroller (JR Sobu line from the home base station to Kinshicho, then Hanzomon line to Oshiage (~20 min); or taxi 10–15 min). Sumida Aquarium, Tokyo Skytree Town Solamachi 5F/6F (weekdays 10:00–20:00, last entry 19:00; https://www.sumida-aquarium.com/) 10:00–11:45 at opening. Feed baby in Solamachi nursing rooms. Lunch ~12:00 at Solamachi food court / kids floor. Home ~13:00 for toddler nap. Skip the Skytree deck. Cost ~¥6,300: adults ¥2,700 each, 3yo ¥900, baby free. No reservation required; optional date-specified web tickets go on sale 30 days ahead (~Nov 3) to skip the line."
       }
     ]
   },
   "checklist": {
-    "updatedAt": "2026-10-14T12:35:00.000Z",
+    "updatedAt": "2026-10-14T12:55:00.000Z",
     "items": [
       {
         "id": "chk-disneysea",
@@ -577,7 +580,16 @@
         "id": "chk-dec3-family-plan",
         "title": "Plan family activity for Dec 3",
         "priority": "medium",
-        "deadlineHint": "No nanny that day — parents handle both kids",
+        "deadlineHint": "Decided — Sumida Aquarium, 10:00 opening, home ~13:00",
+        "status": "done",
+        "relatedDay": "2026-12-03",
+        "auditId": "dec3-family-plan"
+      },
+      {
+        "id": "chk-sumida-web-tickets",
+        "title": "Buy Sumida Aquarium web tickets (on sale ~Nov 3, optional)",
+        "priority": "low",
+        "deadlineHint": "Optional — date-specified tickets on sale 30 days ahead (~Nov 3) to skip the line; no reservation required",
         "status": "open",
         "relatedDay": "2026-12-03",
         "auditId": "dec3-family-plan"
@@ -585,7 +597,7 @@
     ]
   },
   "briefings": {
-    "updatedAt": "2026-10-14T12:35:00.000Z",
+    "updatedAt": "2026-10-14T12:55:00.000Z",
     "days": [
       {
         "date": "2026-11-23",
@@ -765,7 +777,7 @@
         "headline": "Fuji morning, Tokyo afternoon, rest for Disneyland",
         "morning": "Breakfast with a view if weather cooperates. Relaxed checkout — do not squeeze extra stops.",
         "afternoon": "Return to Tokyo mid-afternoon. Unpack, laundry, restock. Home dinner.",
-        "evening": "No plans. Early bedtime. Tomorrow the nanny is off at Disneyland — have the family plan ready.",
+        "evening": "No plans. Early bedtime. Tomorrow the nanny is off at Disneyland; family does Sumida Aquarium — pack stroller bag tonight, leave ~9:15.",
         "packing": [
           "Same overnight bag for return",
           "Laundry plan at home base"
@@ -773,23 +785,24 @@
         "handoffs": [],
         "openQuestions": [
           "Return train/bus time locked?",
-          "Dec 3 family plan decided?"
+          "Sumida Aquarium web tickets bought (optional)?"
         ]
       },
       {
         "date": "2026-12-03",
-        "headline": "Family open day — nanny at Disneyland solo",
-        "morning": "Nanny heads to Tokyo Disneyland solo (ticket booked). Family has an open day — plan TBD. Parents have both kids; keep the first outing short around nap timing.",
-        "afternoon": "Naps at home base. Optional short nearby outing (park/playground) if energy allows.",
+        "headline": "Sumida Aquarium morning — nanny at Disneyland solo",
+        "morning": "Nanny heads to Tokyo Disneyland solo (ticket booked). Family leaves ~9:15 with stroller: JR Sobu line from the home base station to Kinshicho, then Hanzomon line to Oshiage (~20 min); or taxi 10–15 min. Sumida Aquarium, Tokyo Skytree Town Solamachi 5F/6F (weekdays 10:00–20:00, last entry 19:00; https://www.sumida-aquarium.com/): in at 10:00 opening, out ~11:45. Feed baby in Solamachi nursing rooms.",
+        "afternoon": "Lunch ~12:00 at Solamachi food court / kids floor. Home ~13:00 for toddler nap. Skip the Skytree deck.",
         "evening": "Simple dinner. Keep Dec 4 daytime gentle ahead of the adult evening.",
         "packing": [
-          "Day bag for both kids",
+          "Stroller + day bag for both kids",
           "Diapers/wipes/feeding",
+          "IC cards / taxi app",
           "Layers + rain plan"
         ],
         "handoffs": [],
         "openQuestions": [
-          "What family activity for Dec 3? (no nanny)"
+          "Buy optional date-specified web tickets (~Nov 3)? Cost ~¥6,300: adults ¥2,700 each, 3yo ¥900, baby free. No reservation required; optional date-specified web tickets go on sale 30 days ahead (~Nov 3) to skip the line."
         ]
       },
       {
