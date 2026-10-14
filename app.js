@@ -23,7 +23,7 @@
   const LOCKED = [
     { date: '2026-11-26', label: '26 Nov · DisneySea' },
     { date: '2026-12-01', label: '01 Dec · Mt. Fuji overnight' },
-    { date: '2026-12-03', label: '03 Dec · Disneyland' },
+    { date: '2026-12-03', label: '03 Dec · Nanny at Disneyland' },
     { date: '2026-12-04', label: '04 Dec · Bell Sushi + Sip' },
     { date: '2026-12-05', label: '05 Dec · teamLab + Odaiba' },
     { date: '2026-12-07', label: '07 Dec · Departure' }
@@ -71,8 +71,7 @@
     el.overviewChips.innerHTML = LOCKED.map((item) => {
       const day = state.trip.itinerary.days.find((d) => d.date === item.date);
       const booked = day && day.tags && day.tags.includes('booked');
-      const partial = day && day.tags && day.tags.includes('partial');
-      return `<span class="chip locked">${escapeHtml(item.label)}${booked ? ' · booked' : (partial ? ' · partly booked' : '')}</span>`;
+      return `<span class="chip locked">${escapeHtml(item.label)}${booked ? ' · booked' : ''}</span>`;
     }).join('');
   }
 

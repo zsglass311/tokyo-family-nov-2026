@@ -219,7 +219,7 @@
           "Unpack and laundry",
           "Home dinner"
         ],
-        "notes": "No evening plans. Save energy for Disneyland tomorrow.",
+        "notes": "No evening plans. Rest up; Dec 3 is a family open day (nanny off at Disneyland).",
         "adultEvening": null,
         "tags": [
           "fuji",
@@ -230,23 +230,21 @@
       {
         "date": "2026-12-03",
         "weekday": "Thu",
-        "title": "Tokyo Disneyland",
-        "pace": "Heavy",
-        "summary": "The second Disney day",
+        "title": "Family open day · Nanny at Disneyland",
+        "pace": "Light",
+        "summary": "Nanny's solo Disneyland day; family plan TBD",
         "activities": [
-          "Tokyo Disneyland full park day",
-          "Regular food and rest breaks",
-          "Stroller-friendly pacing",
-          "Early exit OK"
+          "Nanny at Tokyo Disneyland solo (ticket booked)",
+          "Family (Zach, wife, both kids): open day, plan TBD",
+          "Parents handle both kids — keep it gentle, near home base"
         ],
-        "notes": "Nanny ticket booked; Zach + wife still to book; kids under 4 free. Confirm park hours. Protect rest windows like DisneySea.",
+        "notes": "Nanny has a solo Disneyland day (ticket booked). Family is not going to Disneyland. No nanny today — plan a gentle family activity.",
         "adultEvening": null,
         "tags": [
-          "disney",
-          "highlight",
-          "partial"
+          "open-day",
+          "nanny-off"
         ],
-        "highlight": true
+        "highlight": false
       },
       {
         "date": "2026-12-04",
@@ -337,10 +335,10 @@
     ]
   },
   "audit": {
-    "updatedAt": "2026-10-14T12:30:00.000Z",
+    "updatedAt": "2026-10-14T12:35:00.000Z",
     "summary": {
       "open": 10,
-      "booked": 2,
+      "booked": 3,
       "confirmed": 0,
       "done": 0
     },
@@ -356,12 +354,12 @@
       },
       {
         "id": "disneyland-tickets",
-        "title": "Disneyland tickets (Dec 3)",
+        "title": "Disneyland ticket — nanny solo day (Dec 3)",
         "category": "tickets",
-        "status": "open",
-        "dueHint": "Partial — nanny booked; buy 2 adult tickets (Zach + wife) ASAP",
+        "status": "booked",
+        "dueHint": "Done — nanny ticket booked; family not attending",
         "relatedDay": "2026-12-03",
-        "notes": "Nanny ticket booked; Zach + wife still to book; kids under 4 free. Second Disney day after Fuji return."
+        "notes": "Booked — nanny only; solo nanny day. Family is not going to Disneyland. Nothing left to book."
       },
       {
         "id": "disney-hours-entry",
@@ -370,7 +368,7 @@
         "status": "open",
         "dueHint": "Recheck 1–2 weeks before each park day",
         "relatedDay": "2026-11-26",
-        "notes": "Applies to Nov 26 DisneySea and Dec 3 Disneyland. Attraction opening days can change."
+        "notes": "Applies to Nov 26 DisneySea (whole party). Dec 3 Disneyland is a solo nanny day."
       },
       {
         "id": "fuji-transport",
@@ -452,11 +450,20 @@
         "dueHint": "Before travel — list what to bring vs buy near Tokyo home base on Nov 23",
         "relatedDay": "2026-11-23",
         "notes": "Diapers, formula/feeding, wipes, meds, snacks. Map a grocery/drugstore near home base."
+      },
+      {
+        "id": "dec3-family-plan",
+        "title": "Plan family activity for Dec 3",
+        "category": "activities",
+        "status": "open",
+        "dueHint": "Before trip — gentle plan, parents solo with both kids",
+        "relatedDay": "2026-12-03",
+        "notes": "No nanny on Dec 3 (nanny at Disneyland solo). Zach + wife handle the 3-year-old and 4-month-old; plan TBD."
       }
     ]
   },
   "checklist": {
-    "updatedAt": "2026-10-14T12:30:00.000Z",
+    "updatedAt": "2026-10-14T12:35:00.000Z",
     "items": [
       {
         "id": "chk-disneysea",
@@ -469,10 +476,10 @@
       },
       {
         "id": "chk-disneyland",
-        "title": "Buy Tokyo Disneyland tickets for Dec 3",
+        "title": "Tokyo Disneyland ticket for nanny (Dec 3)",
         "priority": "high",
-        "deadlineHint": "Partial: Nanny ticket booked; Zach + wife still to book; kids under 4 free. Buy Zach + wife tickets ASAP",
-        "status": "open",
+        "deadlineHint": "Booked — nanny only; solo nanny day. Family is not going to Disneyland. Nothing left to book.",
+        "status": "booked",
         "relatedDay": "2026-12-03",
         "auditId": "disneyland-tickets"
       },
@@ -565,11 +572,20 @@
         "status": "open",
         "relatedDay": "2026-11-23",
         "auditId": "arrival-supplies"
+      },
+      {
+        "id": "chk-dec3-family-plan",
+        "title": "Plan family activity for Dec 3",
+        "priority": "medium",
+        "deadlineHint": "No nanny that day — parents handle both kids",
+        "status": "open",
+        "relatedDay": "2026-12-03",
+        "auditId": "dec3-family-plan"
       }
     ]
   },
   "briefings": {
-    "updatedAt": "2026-10-14T12:30:00.000Z",
+    "updatedAt": "2026-10-14T12:35:00.000Z",
     "days": [
       {
         "date": "2026-11-23",
@@ -749,36 +765,31 @@
         "headline": "Fuji morning, Tokyo afternoon, rest for Disneyland",
         "morning": "Breakfast with a view if weather cooperates. Relaxed checkout — do not squeeze extra stops.",
         "afternoon": "Return to Tokyo mid-afternoon. Unpack, laundry, restock. Home dinner.",
-        "evening": "No plans. Early bedtime. Disneyland: nanny ticket booked; make sure Zach + wife tickets are bought. Check park hours.",
+        "evening": "No plans. Early bedtime. Tomorrow the nanny is off at Disneyland — have the family plan ready.",
         "packing": [
           "Same overnight bag for return",
-          "Laundry plan at home base",
-          "Disneyland bag prep overnight"
+          "Laundry plan at home base"
         ],
         "handoffs": [],
         "openQuestions": [
           "Return train/bus time locked?",
-          "Disneyland tickets ready?"
+          "Dec 3 family plan decided?"
         ]
       },
       {
         "date": "2026-12-03",
-        "headline": "Disneyland — second Disney day, same rest rules",
-        "morning": "Tickets: Nanny ticket booked; Zach + wife still to book; kids under 4 free. Arrive with buffer. Prioritize a short list for the 3yo. Early snack and stroller nap window on the calendar.",
-        "afternoon": "Meal break mid-park. Drop optional attractions. Early exit if energy dips.",
-        "evening": "Direct home. Simple dinner. Keep Dec 4 daytime gentle ahead of the adult evening.",
+        "headline": "Family open day — nanny at Disneyland solo",
+        "morning": "Nanny heads to Tokyo Disneyland solo (ticket booked). Family has an open day — plan TBD. Parents have both kids; keep the first outing short around nap timing.",
+        "afternoon": "Naps at home base. Optional short nearby outing (park/playground) if energy allows.",
+        "evening": "Simple dinner. Keep Dec 4 daytime gentle ahead of the adult evening.",
         "packing": [
-          "Tickets & app",
-          "Battery pack",
-          "Full-day baby kit",
-          "Change of clothes",
+          "Day bag for both kids",
+          "Diapers/wipes/feeding",
           "Layers + rain plan"
         ],
         "handoffs": [],
         "openQuestions": [
-          "Zach + wife Disneyland tickets purchased? (nanny already booked)",
-          "Park hours / timed entry checked?",
-          "Priority attractions for Dec 3?"
+          "What family activity for Dec 3? (no nanny)"
         ]
       },
       {
