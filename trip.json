@@ -219,7 +219,7 @@
           "Unpack and laundry",
           "Home dinner"
         ],
-        "notes": "No evening plans. Rest up; Dec 3 is Sumida Aquarium for the family (nanny off at Disneyland).",
+        "notes": "No evening plans. Rest up; Dec 3 is a Shibamata half-day for the family (nanny off at Disneyland).",
         "adultEvening": null,
         "tags": [
           "fuji",
@@ -230,22 +230,24 @@
       {
         "date": "2026-12-03",
         "weekday": "Thu",
-        "title": "Sumida Aquarium (family) · Nanny at Disneyland",
+        "title": "Shibamata (family) · Nanny at Disneyland",
         "pace": "Light",
-        "summary": "Sumida Aquarium morning · Solamachi lunch · Home for nap",
+        "summary": "Taishakuten · Yamamoto-tei · Home for nap",
         "activities": [
           "Nanny at Tokyo Disneyland solo (ticket booked)",
-          "Leave ~9:15 with stroller (train ~20 min or taxi 10–15 min)",
-          "Sumida Aquarium 10:00–11:45 at opening",
-          "Feed baby in Solamachi nursing rooms",
-          "Lunch ~12:00 Solamachi food court / kids floor",
-          "Home ~13:00 for toddler nap"
+          "9:15 leave with stroller: bus/JR to Shin-Koiwa, then Keisei bus to Shibamata (~35–45 min); or taxi ~20 min",
+          "10:00 Taishakuten approach street + kusa-dango (e.g. Takagiya)",
+          "10:30 Taishakuten temple (grounds free; carving gallery ~¥400, unverified; some steps)",
+          "11:15 Yamamoto-tei: matcha + sweet ¥1,000, entry ~¥100 (https://www.katsushika-kanko.com/yamamoto/; stroller left at door; Dec closures are Dec 15–17, so Dec 3 OK) + baby feed",
+          "12:00 lunch (dango or eel)",
+          "12:45 taxi home for toddler nap",
+          "Optional: Edogawa riverbank loop"
         ],
-        "notes": "Family: leave ~9:15 with stroller (JR Sobu line from the home base station to Kinshicho, then Hanzomon line to Oshiage (~20 min); or taxi 10–15 min). Sumida Aquarium, Tokyo Skytree Town Solamachi 5F/6F (weekdays 10:00–20:00, last entry 19:00; https://www.sumida-aquarium.com/) 10:00–11:45 at opening. Feed baby in Solamachi nursing rooms. Lunch ~12:00 at Solamachi food court / kids floor. Home ~13:00 for toddler nap. Skip the Skytree deck. Cost ~¥6,300: adults ¥2,700 each, 3yo ¥900, baby free. No reservation required; optional date-specified web tickets go on sale 30 days ahead (~Nov 3) to skip the line.",
+        "notes": "Family Shibamata half-day: 9:15 leave with stroller: bus/JR to Shin-Koiwa, then Keisei bus to Shibamata (~35–45 min); or taxi ~20 min; 10:00 Taishakuten approach street + kusa-dango (e.g. Takagiya); 10:30 Taishakuten temple (grounds free; carving gallery ~¥400, unverified; some steps); 11:15 Yamamoto-tei: matcha + sweet ¥1,000, entry ~¥100 (https://www.katsushika-kanko.com/yamamoto/; stroller left at door; Dec closures are Dec 15–17, so Dec 3 OK) + baby feed; 12:00 lunch (dango or eel); 12:45 taxi home for toddler nap; Optional: Edogawa riverbank loop. No verified nursing rooms — bring a changing mat. Rain backup: Kiyosumi Gardens (https://www.tokyo-park.or.jp/park/kiyosumi/) + Fukagawa Edo Museum (https://www.kcf.or.jp/fukagawa/, check hours).",
         "adultEvening": null,
         "tags": [
           "nanny-off",
-          "aquarium"
+          "shibamata"
         ],
         "highlight": false
       },
@@ -338,9 +340,9 @@
     ]
   },
   "audit": {
-    "updatedAt": "2026-10-14T12:55:00.000Z",
+    "updatedAt": "2026-10-14T14:20:00.000Z",
     "summary": {
-      "open": 9,
+      "open": 10,
       "booked": 3,
       "confirmed": 0,
       "done": 1
@@ -459,14 +461,23 @@
         "title": "Plan family activity for Dec 3",
         "category": "activities",
         "status": "done",
-        "dueHint": "Decided — Sumida Aquarium (family morning)",
+        "dueHint": "Decided — Shibamata half-day (family)",
         "relatedDay": "2026-12-03",
-        "notes": "Planned: Sumida Aquarium. Nanny at Disneyland solo; parents handle both kids. Family: leave ~9:15 with stroller (JR Sobu line from the home base station to Kinshicho, then Hanzomon line to Oshiage (~20 min); or taxi 10–15 min). Sumida Aquarium, Tokyo Skytree Town Solamachi 5F/6F (weekdays 10:00–20:00, last entry 19:00; https://www.sumida-aquarium.com/) 10:00–11:45 at opening. Feed baby in Solamachi nursing rooms. Lunch ~12:00 at Solamachi food court / kids floor. Home ~13:00 for toddler nap. Skip the Skytree deck. Cost ~¥6,300: adults ¥2,700 each, 3yo ¥900, baby free. No reservation required; optional date-specified web tickets go on sale 30 days ahead (~Nov 3) to skip the line."
+        "notes": "Planned: Shibamata. Nanny at Disneyland solo; parents handle both kids. Family Shibamata half-day: 9:15 leave with stroller: bus/JR to Shin-Koiwa, then Keisei bus to Shibamata (~35–45 min); or taxi ~20 min; 10:00 Taishakuten approach street + kusa-dango (e.g. Takagiya); 10:30 Taishakuten temple (grounds free; carving gallery ~¥400, unverified; some steps); 11:15 Yamamoto-tei: matcha + sweet ¥1,000, entry ~¥100 (https://www.katsushika-kanko.com/yamamoto/; stroller left at door; Dec closures are Dec 15–17, so Dec 3 OK) + baby feed; 12:00 lunch (dango or eel); 12:45 taxi home for toddler nap; Optional: Edogawa riverbank loop. No verified nursing rooms — bring a changing mat. Rain backup: Kiyosumi Gardens (https://www.tokyo-park.or.jp/park/kiyosumi/) + Fukagawa Edo Museum (https://www.kcf.or.jp/fukagawa/, check hours)."
+      },
+      {
+        "id": "wife-tea-ceremony",
+        "title": "Wife's solo tea ceremony — choose venue/day",
+        "category": "activities",
+        "status": "open",
+        "dueHint": "Pick venue + day, then book",
+        "relatedDay": null,
+        "notes": "Options: a small Yanaka gallery (~¥4,500, advance booking); Wasako (Asakusa) ¥7k–14k; Hanamizuki (Toyosu)."
       }
     ]
   },
   "checklist": {
-    "updatedAt": "2026-10-14T12:55:00.000Z",
+    "updatedAt": "2026-10-14T14:20:00.000Z",
     "items": [
       {
         "id": "chk-disneysea",
@@ -580,24 +591,24 @@
         "id": "chk-dec3-family-plan",
         "title": "Plan family activity for Dec 3",
         "priority": "medium",
-        "deadlineHint": "Decided — Sumida Aquarium, 10:00 opening, home ~13:00",
+        "deadlineHint": "Decided — Shibamata half-day, leave 9:15, home ~13:00",
         "status": "done",
         "relatedDay": "2026-12-03",
         "auditId": "dec3-family-plan"
       },
       {
-        "id": "chk-sumida-web-tickets",
-        "title": "Buy Sumida Aquarium web tickets (on sale ~Nov 3, optional)",
-        "priority": "low",
-        "deadlineHint": "Optional — date-specified tickets on sale 30 days ahead (~Nov 3) to skip the line; no reservation required",
+        "id": "chk-wife-tea",
+        "title": "Wife's solo tea ceremony — choose venue/day",
+        "priority": "medium",
+        "deadlineHint": "Options: a small Yanaka gallery (~¥4,500, advance booking); Wasako (Asakusa) ¥7k–14k; Hanamizuki (Toyosu).",
         "status": "open",
-        "relatedDay": "2026-12-03",
-        "auditId": "dec3-family-plan"
+        "relatedDay": null,
+        "auditId": "wife-tea-ceremony"
       }
     ]
   },
   "briefings": {
-    "updatedAt": "2026-10-14T12:55:00.000Z",
+    "updatedAt": "2026-10-14T14:20:00.000Z",
     "days": [
       {
         "date": "2026-11-23",
@@ -777,7 +788,7 @@
         "headline": "Fuji morning, Tokyo afternoon, rest for Disneyland",
         "morning": "Breakfast with a view if weather cooperates. Relaxed checkout — do not squeeze extra stops.",
         "afternoon": "Return to Tokyo mid-afternoon. Unpack, laundry, restock. Home dinner.",
-        "evening": "No plans. Early bedtime. Tomorrow the nanny is off at Disneyland; family does Sumida Aquarium — pack stroller bag tonight, leave ~9:15.",
+        "evening": "No plans. Early bedtime. Tomorrow the nanny is off at Disneyland; family does Shibamata — pack stroller bag + changing mat tonight, leave ~9:15.",
         "packing": [
           "Same overnight bag for return",
           "Laundry plan at home base"
@@ -785,24 +796,26 @@
         "handoffs": [],
         "openQuestions": [
           "Return train/bus time locked?",
-          "Sumida Aquarium web tickets bought (optional)?"
+          "Rain forecast for Dec 3? (backup: Kiyosumi Gardens + Fukagawa Edo Museum)"
         ]
       },
       {
         "date": "2026-12-03",
-        "headline": "Sumida Aquarium morning — nanny at Disneyland solo",
-        "morning": "Nanny heads to Tokyo Disneyland solo (ticket booked). Family leaves ~9:15 with stroller: JR Sobu line from the home base station to Kinshicho, then Hanzomon line to Oshiage (~20 min); or taxi 10–15 min. Sumida Aquarium, Tokyo Skytree Town Solamachi 5F/6F (weekdays 10:00–20:00, last entry 19:00; https://www.sumida-aquarium.com/): in at 10:00 opening, out ~11:45. Feed baby in Solamachi nursing rooms.",
-        "afternoon": "Lunch ~12:00 at Solamachi food court / kids floor. Home ~13:00 for toddler nap. Skip the Skytree deck.",
+        "headline": "Shibamata half-day — nanny at Disneyland solo",
+        "morning": "Nanny heads to Tokyo Disneyland solo (ticket booked). 9:15 leave with stroller: bus/JR to Shin-Koiwa, then Keisei bus to Shibamata (~35–45 min); or taxi ~20 min; 10:00 Taishakuten approach street + kusa-dango (e.g. Takagiya); 10:30 Taishakuten temple (grounds free; carving gallery ~¥400, unverified; some steps); 11:15 Yamamoto-tei: matcha + sweet ¥1,000, entry ~¥100 (https://www.katsushika-kanko.com/yamamoto/; stroller left at door; Dec closures are Dec 15–17, so Dec 3 OK) + baby feed.",
+        "afternoon": "12:00 lunch (dango or eel). 12:45 taxi home for toddler nap. Optional Edogawa riverbank loop if energy allows.",
         "evening": "Simple dinner. Keep Dec 4 daytime gentle ahead of the adult evening.",
         "packing": [
           "Stroller + day bag for both kids",
+          "Changing mat (no verified nursing rooms)",
           "Diapers/wipes/feeding",
-          "IC cards / taxi app",
+          "Cash for dango/tea",
           "Layers + rain plan"
         ],
         "handoffs": [],
         "openQuestions": [
-          "Buy optional date-specified web tickets (~Nov 3)? Cost ~¥6,300: adults ¥2,700 each, 3yo ¥900, baby free. No reservation required; optional date-specified web tickets go on sale 30 days ahead (~Nov 3) to skip the line."
+          "Rain? Backup: Kiyosumi Gardens (https://www.tokyo-park.or.jp/park/kiyosumi/) + Fukagawa Edo Museum (https://www.kcf.or.jp/fukagawa/, check hours)",
+          "Taishakuten carving gallery price (~¥400) unverified"
         ]
       },
       {
