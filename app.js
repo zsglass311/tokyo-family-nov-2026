@@ -71,7 +71,8 @@
     el.overviewChips.innerHTML = LOCKED.map((item) => {
       const day = state.trip.itinerary.days.find((d) => d.date === item.date);
       const booked = day && day.tags && day.tags.includes('booked');
-      return `<span class="chip locked">${escapeHtml(item.label)}${booked ? ' · booked' : ''}</span>`;
+      const partial = day && day.tags && day.tags.includes('partial');
+      return `<span class="chip locked">${escapeHtml(item.label)}${booked ? ' · booked' : (partial ? ' · partly booked' : '')}</span>`;
     }).join('');
   }
 
