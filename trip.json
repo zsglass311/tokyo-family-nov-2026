@@ -40,39 +40,39 @@
         "weekday": "Tue",
         "title": "A gentle start",
         "pace": "Very light",
-        "summary": "Neighborhood · Playground · Groceries",
+        "summary": "Neighborhood · Playground · Costco run",
         "activities": [
-          "Breakfast at home",
-          "Nearby playground",
-          "Groceries and laundry",
-          "Naps on the kids' schedule",
-          "Quiet evening at home"
+          "Costco Shin-Misato run (Zach + wife, ~9:20–13:00; nanny home with kids)",
+          "Playground near home base",
+          "Laundry + long naps"
         ],
-        "notes": "Follow the children's sleep rather than the clock. Let everyone settle into Tokyo time.",
+        "notes": "Follow the children's sleep rather than the clock. Costco Shin-Misato (LaLaport Shin-Misato, 10:00–20:00 daily): Zach + wife go ~9:20 by taxi (~35–45 min, est. ¥7–9k each way); nanny stays home with the kids. Back ~13:00. US Costco card valid (bring the physical card + photo ID; Mastercard or cash only). Alt: Costco Makuhari.",
         "adultEvening": null,
         "tags": [
           "recovery",
-          "neighborhood"
+          "neighborhood",
+          "costco"
         ]
       },
       {
         "date": "2026-11-25",
         "weekday": "Wed",
-        "title": "Ueno & Akihabara",
+        "title": "Ueno, Yanaka tea & Akihabara",
         "pace": "Moderate",
-        "summary": "Ueno in the morning · Akihabara after lunch",
+        "summary": "Ueno Zoo · Wife's tea ceremony (Yanaka) · Akihabara optional",
         "activities": [
           "Ueno Zoo or another family attraction",
           "Lunch in Ueno",
           "Short shopping visit to Akihabara",
           "Home around 4:30–5:00 pm"
         ],
-        "notes": "Aim to be home before DisneySea. Keep Akihabara short so energy is left for tomorrow.",
+        "notes": "Wife solo: Tea ceremony (Yanaka), 11:00 slot (opens 11:00; ~1 hr; ¥4,500; chairs, shoes on). Family + nanny at Ueno Zoo/Ueno Park nearby (Yanaka is ~15–20 min walk or short taxi from the zoo). Wife rejoins ~12:30 for lunch in Ueno. Keep Akihabara short/optional so energy is left for DisneySea.",
         "adultEvening": null,
         "tags": [
           "ueno",
           "akihabara",
-          "pre-disney"
+          "pre-disney",
+          "tea"
         ]
       },
       {
@@ -108,7 +108,7 @@
           "Nearby playground or easy mall only if energy allows",
           "Takeout dinner"
         ],
-        "notes": "Protect this recovery day. Do not add ticketed attractions.",
+        "notes": "Protect this recovery day. Do not add ticketed attractions. (Backup slot for the Costco run, afternoon, adults only.)",
         "adultEvening": null,
         "tags": [
           "recovery"
@@ -313,7 +313,7 @@
           "Option C: revisit something missed",
           "Pack for departure"
         ],
-        "notes": "Keep free of another major ticketed attraction. Leave plenty of time to pack.",
+        "notes": "Keep free of another major ticketed attraction. Leave plenty of time to pack. Backup slot for the wife's Yanaka tea ceremony (11:00) if Nov 25 doesn't work.",
         "adultEvening": null,
         "tags": [
           "flexible",
@@ -340,9 +340,9 @@
     ]
   },
   "audit": {
-    "updatedAt": "2026-10-14T14:20:00.000Z",
+    "updatedAt": "2026-10-17T11:05:00.000Z",
     "summary": {
-      "open": 10,
+      "open": 11,
       "booked": 3,
       "confirmed": 0,
       "done": 1
@@ -467,17 +467,26 @@
       },
       {
         "id": "wife-tea-ceremony",
-        "title": "Wife's solo tea ceremony — choose venue/day",
+        "title": "Wife's solo tea ceremony (Yanaka) — date chosen, booking needed",
         "category": "activities",
         "status": "open",
-        "dueHint": "Pick venue + day, then book",
-        "relatedDay": null,
-        "notes": "Options: a small Yanaka gallery (~¥4,500, advance booking); [removed] (Asakusa) ¥7k–14k; Hanamizuki (Toyosu)."
+        "dueHint": "Date chosen — booking needed",
+        "relatedDay": "2026-11-25",
+        "notes": "Primary Wed Nov 25, 11:00 (Ueno day); backup Sun Dec 6, 11:00. ~¥4,500, ~1 hr; venue open Wed–Sun 11:00–18:00, closed Mon/Tue."
+      },
+      {
+        "id": "costco-run",
+        "title": "Costco stock-up run (Nov 24)",
+        "category": "supplies",
+        "status": "open",
+        "dueHint": "Plan taxi + list; backup Fri Nov 27 afternoon",
+        "relatedDay": "2026-11-24",
+        "notes": "Costco Shin-Misato (LaLaport Shin-Misato, 10:00–20:00 daily): Zach + wife go ~9:20 by taxi (~35–45 min, est. ¥7–9k each way); nanny stays home with the kids. Back ~13:00. US Costco card valid (bring the physical card + photo ID; Mastercard or cash only). Alt: Costco Makuhari."
       }
     ]
   },
   "checklist": {
-    "updatedAt": "2026-10-14T14:20:00.000Z",
+    "updatedAt": "2026-10-17T11:05:00.000Z",
     "items": [
       {
         "id": "chk-disneysea",
@@ -598,17 +607,35 @@
       },
       {
         "id": "chk-wife-tea",
-        "title": "Wife's solo tea ceremony — choose venue/day",
+        "title": "Wife's solo tea ceremony — date chosen (Nov 25, 11:00), booking needed",
         "priority": "medium",
-        "deadlineHint": "Options: a small Yanaka gallery (~¥4,500, advance booking); [removed] (Asakusa) ¥7k–14k; Hanamizuki (Toyosu).",
+        "deadlineHint": "Primary Wed Nov 25 11:00; backup Sun Dec 6 11:00",
         "status": "open",
-        "relatedDay": null,
+        "relatedDay": "2026-11-25",
         "auditId": "wife-tea-ceremony"
+      },
+      {
+        "id": "chk-email-tea",
+        "title": "Email the Yanaka tea venue to book",
+        "priority": "high",
+        "deadlineHint": "1 guest, Wed Nov 25 11:00; backup Sun Dec 6 11:00",
+        "status": "open",
+        "relatedDay": "2026-11-25",
+        "auditId": "wife-tea-ceremony"
+      },
+      {
+        "id": "chk-costco",
+        "title": "Costco run Tue Nov 24 (Shin-Misato) — bring US Costco card + ID",
+        "priority": "medium",
+        "deadlineHint": "Shopping list + taxi (GO/Uber) the night before; backup Fri Nov 27 afternoon",
+        "status": "open",
+        "relatedDay": "2026-11-24",
+        "auditId": "costco-run"
       }
     ]
   },
   "briefings": {
-    "updatedAt": "2026-10-14T14:20:00.000Z",
+    "updatedAt": "2026-10-17T11:05:00.000Z",
     "days": [
       {
         "date": "2026-11-23",
@@ -631,27 +658,32 @@
       },
       {
         "date": "2026-11-24",
-        "headline": "Neighborhood rhythm, not a checklist",
-        "morning": "Breakfast at home. Short walk to a nearby playground when the toddler is ready. Stay within an easy nap-return radius.",
-        "afternoon": "Groceries and laundry. Long naps. Optional quiet café or park if energy is good — skip if anyone is still foggy.",
+        "headline": "Neighborhood rhythm + Costco stock-up",
+        "morning": "~9:20 Zach + wife taxi to Costco Shin-Misato (opens 10:00; ~35–45 min). nanny stays with the kids for breakfast and a playground walk near home base. Bring the physical US Costco card + photo ID; pay Mastercard or cash.",
+        "afternoon": "Back ~13:00 (taxi; big JPN Taxi fits bulk bags). Unpack, long naps, laundry.",
         "evening": "Home dinner. Early bedtime. DisneySea tickets are booked. Confirm tomorrow’s Ueno plan before sleep.",
         "packing": [
           "Comfortable walking shoes",
           "Stroller or carrier",
           "Snacks & water",
-          "Laundry bag / detergent pods if needed"
+          "Laundry bag / detergent pods if needed",
+          "US Costco card + photo ID",
+          "Mastercard or cash",
+          "Costco list (diapers, wipes, snacks, breakfast)",
+          "Foldable shopping bags"
         ],
         "handoffs": [],
         "openQuestions": [
           "Best playground within ~10 min of the Airbnb?",
-          "Laundry in-unit or nearby coin laundry?"
+          "Laundry in-unit or nearby coin laundry?",
+          "Costco list finalized? Taxi via GO/Uber app?"
         ]
       },
       {
         "date": "2026-11-25",
-        "headline": "Ueno morning, Akihabara short, home by late afternoon",
-        "morning": "Ueno Zoo or another family-friendly Ueno stop. Arrive when gates open if possible to beat crowds and protect nap timing.",
-        "afternoon": "Lunch in Ueno. Short Akihabara visit only — one or two shops, not a deep dive. Aim home 4:30–5:00 pm.",
+        "headline": "Ueno morning, Yanaka tea for her, home by late afternoon",
+        "morning": "Ueno Zoo when gates open with Zach + nanny + kids. ~10:35 wife heads to Yanaka for her 11:00 solo tea ceremony (~1 hr).",
+        "afternoon": "~12:30 wife rejoins for lunch in Ueno. Akihabara optional and short. Aim home 4:30–5:00 pm.",
         "evening": "Prep DisneySea: KKday voucher loaded, park bag packed, early bedtime. No late plans.",
         "packing": [
           "Park bag dry-run for tomorrow",
@@ -662,7 +694,8 @@
         "handoffs": [],
         "openQuestions": [
           "Ueno Zoo vs alternative Ueno attraction?",
-          "Any must-buy Akihabara items, or skip if kids are done?"
+          "Any must-buy Akihabara items, or skip if kids are done?",
+          "Tea ceremony booking confirmed by the venue?"
         ]
       },
       {
@@ -698,7 +731,8 @@
         "handoffs": [],
         "openQuestions": [
           "HASHIDA reservation confirmed?",
-          "Nanny availability for Nov 28 evening?"
+          "Nanny availability for Nov 28 evening?",
+          "Costco done on Nov 24? If not, adults go this afternoon while kids nap."
         ]
       },
       {
@@ -875,7 +909,8 @@
         "openQuestions": [
           "Flight number, airport, and terminal confirmed?",
           "Airport transfer booked?",
-          "Checkout time at Tokyo home base?"
+          "Checkout time at Tokyo home base?",
+          "Tea ceremony moved here (11:00) as backup?"
         ]
       },
       {
