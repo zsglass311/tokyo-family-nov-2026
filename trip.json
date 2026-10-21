@@ -306,18 +306,20 @@
         "weekday": "Sun",
         "title": "A little room for discovery",
         "pace": "Light",
-        "summary": "Flexible day · Final shopping · Packing",
+        "summary": "Flexible day · Wife's tea ceremony (Asakusa, 4:00 PM) · Final shopping · Packing",
         "activities": [
           "Option A: Ginza / Marunouchi if energy allows",
           "Option B: stay local at Tokyo home base",
           "Option C: revisit something missed",
+          "4:00 PM Wife solo: Tea ceremony (Asakusa) — taxi out ~3:30, back ~5:45; nanny + Zach have the kids",
           "Pack for departure"
         ],
-        "notes": "Keep free of another major ticketed attraction. Leave plenty of time to pack. Backup slot for the wife's Yanaka tea ceremony (11:00) if Nov 25 doesn't work.",
+        "notes": "Keep free of another major ticketed attraction. Leave plenty of time to pack. Backup slot for the wife's Yanaka tea ceremony (11:00) if Nov 25 doesn't work. Booked: wife's solo tea ceremony (Asakusa), 4:00 PM (~60 min, paid). Taxi ~20 min each way: leave ~3:30, home ~5:45 PM; nanny + Zach have the kids. Shoes off inside — bring socks.",
         "adultEvening": null,
         "tags": [
           "flexible",
-          "packing"
+          "packing",
+          "tea"
         ]
       },
       {
@@ -340,10 +342,10 @@
     ]
   },
   "audit": {
-    "updatedAt": "2026-10-17T11:05:00.000Z",
+    "updatedAt": "2026-10-21T23:30:00.000Z",
     "summary": {
       "open": 11,
-      "booked": 3,
+      "booked": 4,
       "confirmed": 0,
       "done": 1
     },
@@ -482,11 +484,20 @@
         "dueHint": "Plan taxi + list; backup Fri Nov 27 afternoon",
         "relatedDay": "2026-11-24",
         "notes": "Costco Shin-Misato (LaLaport Shin-Misato, 10:00–20:00 daily): Zach + wife go ~9:20 by taxi (~35–45 min, est. ¥7–9k each way); nanny stays home with the kids. Back ~13:00. US Costco card valid (bring the physical card + photo ID; Mastercard or cash only). Alt: Costco Makuhari."
+      },
+      {
+        "id": "asakusa-tea-ceremony",
+        "title": "Wife's tea ceremony, Asakusa (Dec 6, 4:00 PM)",
+        "category": "activities",
+        "status": "booked",
+        "dueHint": "Done — booked & paid; bring socks",
+        "relatedDay": "2026-12-06",
+        "notes": "Booked. ~60-minute tea ceremony experience, 1 person, paid in advance. Shoes off — bring socks. Taxi ~20 min each way; out ~3:30–5:45 PM. Nanny + Zach have the kids."
       }
     ]
   },
   "checklist": {
-    "updatedAt": "2026-10-17T11:05:00.000Z",
+    "updatedAt": "2026-10-21T23:30:00.000Z",
     "items": [
       {
         "id": "chk-disneysea",
@@ -631,11 +642,20 @@
         "status": "open",
         "relatedDay": "2026-11-24",
         "auditId": "costco-run"
+      },
+      {
+        "id": "chk-tea-socks",
+        "title": "Bring socks for tea ceremony (Dec 6)",
+        "priority": "low",
+        "deadlineHint": "Wife's 4:00 PM tea ceremony — shoes off inside",
+        "status": "open",
+        "relatedDay": "2026-12-06",
+        "auditId": "asakusa-tea-ceremony"
       }
     ]
   },
   "briefings": {
-    "updatedAt": "2026-10-17T11:05:00.000Z",
+    "updatedAt": "2026-10-21T23:30:00.000Z",
     "days": [
       {
         "date": "2026-11-23",
@@ -897,15 +917,18 @@
         "date": "2026-12-06",
         "headline": "Flexible day — energy decides, packing is non-negotiable",
         "morning": "Choose based on how everyone feels: Ginza/Marunouchi, stay local at Tokyo home base, or revisit one missed spot. No major ticketed attraction.",
-        "afternoon": "Final shopping only if light. Begin structured packing — kids’ bag, carry-on baby kit, documents.",
+        "afternoon": "Final shopping only if light. Begin structured packing — kids’ bag, carry-on baby kit, documents. 4:00 PM wife's tea ceremony in Asakusa (booked): taxi ~3:30, home ~5:45. Nanny + Zach have the kids. Socks for the wife.",
         "evening": "Home dinner. Lay out tomorrow’s clothes and airport-day bag. Confirm flight and transfer details.",
         "packing": [
           "Packing checklist",
           "Souveniers that fit bags",
           "Documents folder",
-          "Airport-day baby kit staged"
+          "Airport-day baby kit staged",
+          "Socks for the tea ceremony"
         ],
-        "handoffs": [],
+        "handoffs": [
+          "~3:30–5:45 PM: wife out (tea ceremony); nanny + Zach have the kids"
+        ],
         "openQuestions": [
           "Flight number, airport, and terminal confirmed?",
           "Airport transfer booked?",
