@@ -28,7 +28,7 @@
           "Easy dinner or takeout",
           "Early night"
         ],
-        "notes": "Keep this day free of sightseeing. Follow jet lag and the kids' cues.",
+        "notes": "Arriving at Haneda (HND). Keep this day free of sightseeing. Follow jet lag and the kids' cues.",
         "adultEvening": null,
         "tags": [
           "arrival",
@@ -330,10 +330,10 @@
         "summary": "Breakfast · Final packing · Airport transfer",
         "activities": [
           "Checkout from Tokyo home base",
-          "Airport transfer with generous buffer",
+          "Transfer to Haneda (HND) with generous buffer",
           "Flight home"
         ],
-        "notes": "Departure day. No sightseeing. Plan transfer around confirmed flight and airport.",
+        "notes": "Departure day from Haneda (HND). No sightseeing. Plan transfer around confirmed flight.",
         "adultEvening": null,
         "tags": [
           "departure"
@@ -447,7 +447,7 @@
         "status": "open",
         "dueHint": "Once flights confirmed — then book transfer with buffer",
         "relatedDay": "2026-12-07",
-        "notes": "Checkout, airport buffer, no sightseeing. Save flight number, terminal, and transfer method."
+        "notes": "Airport is Haneda (HND) both ways. Checkout, airport buffer, no sightseeing. Save flight number, terminal, and transfer method (transfer not booked yet)."
       },
       {
         "id": "arrival-supplies",
@@ -660,7 +660,7 @@
       {
         "date": "2026-11-23",
         "headline": "Land soft — home base first",
-        "morning": "Travel day. No sightseeing. Head straight to Tokyo home base once you clear arrival.",
+        "morning": "Travel day. No sightseeing. Head straight to Tokyo home base once you clear arrival at Haneda (HND).",
         "afternoon": "Unpack sleep spaces for toddler and infant. Map the nearest grocery and drugstore. Pick up breakfast staples, snacks, diapers/wipes, and any feeding supplies you did not pack.",
         "evening": "Easy takeout or convenience-store dinner. Lights out early. Protect the first night of sleep.",
         "packing": [
@@ -671,7 +671,7 @@
         ],
         "handoffs": [],
         "openQuestions": [
-          "Exact flight arrival time and airport (NRT vs HND)?",
+          "Exact flight arrival time and terminal at Haneda (HND)?",
           "Prefer grocery run tonight or first thing Nov 24?",
           "Any pre-ordered Airbnb baby gear?"
         ]
@@ -930,7 +930,7 @@
           "~3:30–5:45 PM: wife out (tea ceremony); nanny + Zach have the kids"
         ],
         "openQuestions": [
-          "Flight number, airport, and terminal confirmed?",
+          "Flight number and Haneda (HND) terminal confirmed?",
           "Airport transfer booked?",
           "Checkout time at Tokyo home base?",
           "Tea ceremony moved here (11:00) as backup?"
@@ -939,8 +939,8 @@
       {
         "date": "2026-12-07",
         "headline": "Checkout, buffer, fly — no sightseeing",
-        "morning": "Breakfast, final sweep of Airbnb, checkout. Leave with generous airport buffer.",
-        "afternoon": "Airport transfer and check-in. Feed and change before security. No side trips.",
+        "morning": "Breakfast, final sweep of Airbnb, checkout. Leave with generous buffer for Haneda (HND).",
+        "afternoon": "Transfer to Haneda (HND) and check-in. Feed and change before security. No side trips.",
         "evening": "In transit / arrival depending on flight. Trip management site can archive notes after landing.",
         "packing": [
           "Passports & tickets",
