@@ -59,14 +59,14 @@
         "weekday": "Wed",
         "title": "Ueno, Yanaka tea & Akihabara",
         "pace": "Moderate",
-        "summary": "Ueno Zoo · Wife's tea ceremony (Yanaka) · Akihabara optional",
+        "summary": "Ueno Zoo · Tea ceremony (Yanaka, 11:30) · Akihabara optional",
         "activities": [
           "Ueno Zoo or another family attraction",
           "Lunch in Ueno",
           "Short shopping visit to Akihabara",
           "Home around 4:30–5:00 pm"
         ],
-        "notes": "Wife solo: Tea ceremony (Yanaka), 11:00 slot (opens 11:00; ~1 hr; ¥4,500; chairs, shoes on). Family + nanny at Ueno Zoo/Ueno Park nearby (Yanaka is ~15–20 min walk or short taxi from the zoo). Wife rejoins ~12:30 for lunch in Ueno. Keep Akihabara short/optional so energy is left for DisneySea.",
+        "notes": "Tea ceremony (Yanaka): booked 11:30 (~1 hr; ¥4,500; cash). Leave ~11:00, rejoin family for lunch ~1:00. Keep Akihabara short/optional so energy is left for DisneySea.",
         "adultEvening": null,
         "tags": [
           "ueno",
@@ -469,12 +469,12 @@
       },
       {
         "id": "wife-tea-ceremony",
-        "title": "Wife's solo tea ceremony (Yanaka) — date chosen, booking needed",
+        "title": "Tea ceremony (Yanaka) — booked, Wed Nov 25, 11:30",
         "category": "activities",
-        "status": "open",
-        "dueHint": "Date chosen — booking needed",
+        "status": "done",
+        "dueHint": "Confirmed Nov 9",
         "relatedDay": "2026-11-25",
-        "notes": "Primary Wed Nov 25, 11:00 (Ueno day); backup Sun Dec 6, 11:00. ~¥4,500, ~1 hr; venue open Wed–Sun 11:00–18:00, closed Mon/Tue."
+        "notes": "Booked Wed Nov 25, 11:30. ~¥4,500, ~1 hr, cash. Leave ~11:00, rejoin family for lunch ~1:00. Backup Dec 6 no longer needed."
       },
       {
         "id": "costco-run",
@@ -618,10 +618,10 @@
       },
       {
         "id": "chk-wife-tea",
-        "title": "Wife's solo tea ceremony — date chosen (Nov 25, 11:00), booking needed",
+        "title": "Tea ceremony (Yanaka) — booked Nov 25, 11:30",
         "priority": "medium",
-        "deadlineHint": "Primary Wed Nov 25 11:00; backup Sun Dec 6 11:00",
-        "status": "open",
+        "deadlineHint": "Confirmed Wed Nov 25 11:30",
+        "status": "done",
         "relatedDay": "2026-11-25",
         "auditId": "wife-tea-ceremony"
       },
@@ -629,8 +629,8 @@
         "id": "chk-email-tea",
         "title": "Email the Yanaka tea venue to book",
         "priority": "high",
-        "deadlineHint": "1 guest, Wed Nov 25 11:00; backup Sun Dec 6 11:00",
-        "status": "open",
+        "deadlineHint": "Done — venue confirmed Nov 9",
+        "status": "done",
         "relatedDay": "2026-11-25",
         "auditId": "wife-tea-ceremony"
       },
@@ -702,20 +702,20 @@
       {
         "date": "2026-11-25",
         "headline": "Ueno morning, Yanaka tea for her, home by late afternoon",
-        "morning": "Ueno Zoo when gates open with Zach + nanny + kids. ~10:35 wife heads to Yanaka for her 11:00 solo tea ceremony (~1 hr).",
-        "afternoon": "~12:30 wife rejoins for lunch in Ueno. Akihabara optional and short. Aim home 4:30–5:00 pm.",
+        "morning": "Ueno Zoo when gates open with Zach + nanny + kids. ~11:00 leave for Yanaka tea ceremony (booked 11:30, ~1 hr).",
+        "afternoon": "~1:00 tea group rejoins for lunch in Ueno. Akihabara optional and short. Aim home 4:30–5:00 pm.",
         "evening": "Prep DisneySea: KKday voucher loaded, park bag packed, early bedtime. No late plans.",
         "packing": [
           "Park bag dry-run for tomorrow",
           "Stroller rain cover if forecast warrants",
           "Snacks that travel well",
-          "IC cards charged"
+          "IC cards charged",
+          "Cash for tea ceremony"
         ],
         "handoffs": [],
         "openQuestions": [
           "Ueno Zoo vs alternative Ueno attraction?",
-          "Any must-buy Akihabara items, or skip if kids are done?",
-          "Tea ceremony booking confirmed by the venue?"
+          "Any must-buy Akihabara items, or skip if kids are done?"
         ]
       },
       {
